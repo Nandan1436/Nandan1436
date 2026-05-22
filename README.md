@@ -17,6 +17,24 @@ Final year undergraduate @ **University of Dhaka** &nbsp;|&nbsp; Building with *
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandan1436&theme=nord_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nandan1436&theme=nord_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandan1436&theme=nord_dark" width="32%"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandan1436&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 <table align="center">
@@ -49,24 +67,6 @@ Final year undergraduate @ **University of Dhaka** &nbsp;|&nbsp; Building with *
 </div></td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nandan1436&theme=nord_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nandan1436&theme=nord_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nandan1436&theme=nord_dark" width="32%"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandan1436&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
